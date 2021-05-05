@@ -1,4 +1,4 @@
-# Cryptographic-Primitves-and-SHA
+# Cryptographic-Primitives-and-SHA
 
 This repository contains a Raw LaTeX file to be compiled into a research paper.
 
